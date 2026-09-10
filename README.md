@@ -9,7 +9,7 @@
 
 <br clear="left" />
 
-![Web](https://img.shields.io/badge/Web-7C5CFF)
+[![Web](https://img.shields.io/badge/Web-7C5CFF)](https://ssongle.site)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white)
 [![최신 릴리즈](https://img.shields.io/github/v/release/seokachu/ssongle-releases?label=%EC%B5%9C%EC%8B%A0%20%EB%A6%B4%EB%A6%AC%EC%A6%88&color=7C5CFF)](../../releases/latest)
@@ -21,6 +21,8 @@
 | 곡 고르기 | 진행자가 한 곡씩 | 연도 하나만 고르면 그 해 TOP100에서 알아서 출제 |
 | 진행 | 진행자가 매번 넘김 | 정답 공개 뒤 **자동으로** 다음 문제 |
 | 내 캐릭터 | 없음 | 로그인하면 **쏭나물을 꾸미고** 점수 · 포인트가 쌓임 |
+
+**지금 해 보기** — **[ssongle.site](https://ssongle.site)** (PC 브라우저에서 방을 만들고, 참가자는 폰으로 QR)
 
 **바로 보기** — [릴리즈](../../releases) · [변경 이력](./CHANGELOG.md)
 
@@ -104,7 +106,7 @@ flowchart LR
 
 | 플랫폼 | 설치 |
 |---|---|
-| **웹** | 설치 없이 브라우저에서. 홈 화면에 추가하면 앱처럼 뜹니다 |
+| **웹** | [ssongle.site](https://ssongle.site) — 설치 없이 브라우저에서. 홈 화면에 추가하면 앱처럼 뜹니다 |
 | **Android** | [릴리즈](../../releases/latest)에서 APK 내려받기 · Google Play |
 | **iOS** | App Store · TestFlight |
 
